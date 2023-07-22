@@ -1,0 +1,28 @@
+What is Tableau?
+Tableau is a visual analytics platform transforming the way we use data to solve problems. Tableau helps people see and understand data.
+
+Why Tableau is used?
+Organizations or workplaces could share workbooks and reports created using Tableau Desktop applications across other devices.
+
+Why Tableau is better than Excel?
+Excel works well when you have to create quick, one-off reports. Tableau is helpful when you want a more detailed analysis of your business reports.
+
+What are the benefits of using Tableau?
+Provides Informative Dashboards. 
+Supports numerous data sources. 
+Connectivity with Live and In-Memory Data. 
+Provides Great Security. 
+
+What are the real-world applications of Tableau?
+Business Intelligence.
+Data Visualization.
+Data Blending.
+Data Collaboration.
+Query translation into visualization.
+
+Explain how multiple users access Tableau?
+Add users to the site.
+Within a site, select Groups.
+If necessary, create a group using the Add Group option.
+Click a group name to open it, then use the Add Users button to add existing users to the group.
+Thus, multiple users can access the same dashboard.
